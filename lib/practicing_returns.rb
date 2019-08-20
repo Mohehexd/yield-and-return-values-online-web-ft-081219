@@ -12,4 +12,3 @@ end
 
 
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
-(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller'])
